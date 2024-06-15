@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "emsec was here" > /tmp/pwnd
+calc.exe
+C:/Windows/System32/calc.exe
+open -a Calculator.app
